@@ -70,5 +70,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---------------------------------------------------------------------------------------
 
-🚀 **Built with ❤️ by [JawherKl](https://github.com/iamajaygaur)**
+🚀 **Built with ❤️ by [Ajay Gaur](https://github.com/iamajaygaur)**
+
 
