@@ -36,12 +36,12 @@ To run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/iamajaygaur/My_Portfolio.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd jawherkl.github.io
+   cd My_Portfolio
    ```
 
 3. **Install the dependencies**:
@@ -71,5 +71,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---------------------------------------------------------------------------------------
 
 🚀 **Built with ❤️ by [Ajay Gaur](https://github.com/iamajaygaur)**
+
 
 
