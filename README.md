@@ -1,9 +1,5 @@
-# Portfolio Website - Jawher Kl
-<!--
-<img src ="https://github.com/JawherKl/jawherkl.github.io/blob/main/src/assets/portfolio.png" />
--->
+# Portfolio Website - Ajay Gaur
 Welcome to the repository for my personal portfolio website! This project showcases my technical skills, projects, and expertise in software engineering. Visit the live site here: 
-[Jawher Kl Portfolio](https://jawherkl-github-io.vercel.app)
 
 ## 🌟 Features
 
@@ -40,7 +36,7 @@ To run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JawherKl/jawherkl.github.io.git
+   git clone https://github.com/
    ```
 
 2. **Navigate to the project directory**:
@@ -74,4 +70,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---------------------------------------------------------------------------------------
 
-🚀 **Built with ❤️ by [JawherKl](https://github.com/JawherKl)**
+🚀 **Built with ❤️ by [JawherKl](https://github.com/iamajaygaur)**
+
